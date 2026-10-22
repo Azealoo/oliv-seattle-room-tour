@@ -1,0 +1,37 @@
+{
+  "title": "Private bedroom with a window at ōLiv Seattle",
+  "building": "ōLiv Seattle",
+  "neighborhood": "U District, Seattle – walk to UW",
+  "arrangement": "Lease transfer (subject to ōLiv approval)",
+  "room": "Private bedroom with a window",
+  "furnished": [
+    "Full bed",
+    "Desk and desk chair",
+    "Built-in closet with hanging rod and shelves",
+    "Living room sectional, coffee table, and bar stools"
+  ],
+  "unit_features": [
+    "Fully furnished",
+    "Kitchen island with sink and bar seating",
+    "Stainless steel appliances",
+    "Quartz countertops",
+    "Floor-to-ceiling living room windows with a city view",
+    "Glass-enclosed shower",
+    "Independently keyed bedrooms"
+  ],
+  "building_amenities": [
+    "Rooftop sundeck with pool",
+    "Outdoor lounge with BBQ and fire pits",
+    "Fitness center and yoga room",
+    "Spa with indoor sauna",
+    "Business center with computers and printers",
+    "Resident lounge",
+    "Controlled access with key fobs",
+    "Secure indoor bike storage"
+  ],
+  "contact": {
+    "wechat_qr": "data/wechat-qr.jpg",
+    "email_x": "bW9jLmxpYW1nQDQ0MGduaW5peQ==",
+    "phone_x": "Nzc4OS02MjgtMDY3"
+  }
+}
